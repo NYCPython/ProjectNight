@@ -2,7 +2,7 @@ NYC Python Project Night
 ========================
 
 This repository hosts the source for the
-`NYC Python Meetup <http://www.meetup.com/nycpython/>`\'s introductory
+`NYC Python Meetup <http://www.meetup.com/nycpython/>`_\'s introductory
 materials and project night guide.
 
 If you have an idea for improvement, please feel free to fork this repository
